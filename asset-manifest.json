@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlightSearch-App-ui/static/css/main.1fe94338.css",
+    "main.js": "/FlightSearch-App-ui/static/js/main.f16a1547.js",
+    "index.html": "/FlightSearch-App-ui/index.html",
+    "main.1fe94338.css.map": "/FlightSearch-App-ui/static/css/main.1fe94338.css.map",
+    "main.f16a1547.js.map": "/FlightSearch-App-ui/static/js/main.f16a1547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe94338.css",
+    "static/js/main.f16a1547.js"
+  ]
+}
